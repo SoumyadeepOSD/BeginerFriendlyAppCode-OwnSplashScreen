@@ -1,0 +1,1 @@
+# BeginerFriendlyAppCode-OwnSplashScreen
